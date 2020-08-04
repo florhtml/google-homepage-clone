@@ -8,4 +8,4 @@ I want to practice HTML and CSS making the **Spanish google.com's homepage**.
 
 
 
-## 👉 And [this](http://github.com)  is the clone!
+## 👉 And [this](https://florhtml.github.io/google-homepage-clone/) is the clone!
