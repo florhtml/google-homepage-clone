@@ -2,6 +2,6 @@
 
 I want to practice HTML and CSS making the Spanish google.com's homepage.
 
-The screenshot 👇
+This is the original 👇
 
-The clone 👇
+This is the clone 👇
