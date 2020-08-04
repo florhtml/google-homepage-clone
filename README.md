@@ -1,7 +1,11 @@
 # Google Homepage Clone
 
-I want to practice HTML and CSS making the Spanish google.com's homepage.
+I want to practice HTML and CSS making the **Spanish google.com's homepage**.
 
-This is the original 👇
+## This is the original 👇
 
-This is the clone 👇
+![Orignal Google Homepage](/doc/original_google_hoomepage.png)
+
+
+
+## 👉 And [this](http://github.com)  is the clone!
